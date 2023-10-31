@@ -1019,3 +1019,14 @@ button[class ^= navbar]:hover{
     font-size: 30px;
     font-weight: bold;
 }
+.b-btn {
+    height: 30px;
+    width: 80px;
+    background-color: rgb(8, 215, 8);
+    color: aliceblue;
+    border-radius: 7px;
+    margin: 5px 0px;
+}
+.b-btn:hover{
+    background-color: rgb(6, 132, 6);
+}
